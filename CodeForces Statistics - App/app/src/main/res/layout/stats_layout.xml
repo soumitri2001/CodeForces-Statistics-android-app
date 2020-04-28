@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#43d8c9">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:fontFamily="arial"
+                android:textSize="16sp"
+                android:background="#ccf0e1"
+                android:textColor="#3e206d"
+                android:id="@+id/tvInfo"/>
+
+            <TextView
+                android:layout_height="10dp"
+                android:background="#588da8"
+                android:layout_width="match_parent"/>
+
+            <com.github.mikephil.charting.charts.PieChart
+                android:id="@+id/pie_chart"
+                android:layout_width="match_parent"
+                android:layout_height="500sp"/>
+
+            <TextView
+                android:layout_height="10dp"
+                android:background="#588da8"
+                android:layout_width="match_parent"/>
+
+            <com.github.mikephil.charting.charts.PieChart
+                android:id="@+id/pie_chart2"
+                android:layout_width="match_parent"
+                android:layout_height="500sp"/>
+
+            <TextView
+                android:layout_height="10dp"
+                android:background="#588da8"
+                android:layout_width="match_parent"/>
+
+            <TextView
+                android:layout_height="wrap_content"
+                android:id="@+id/tvTags"
+                android:background="#f2ed6f"
+                android:fontFamily="arial-black"
+                android:textSize="17sp"
+                android:textColor="#481380"
+                android:layout_width="match_parent"/>
+
+            <TextView
+                android:layout_height="10dp"
+                android:background="#588da8"
+                android:layout_width="match_parent"/>
+
+            <com.github.mikephil.charting.charts.BarChart
+                android:id="@+id/bar_chart1"
+                android:layout_width="match_parent"
+                android:layout_height="500sp"/>
+
+            <TextView
+                android:layout_height="10dp"
+                android:background="#588da8"
+                android:layout_width="match_parent"/>
+
+            <com.github.mikephil.charting.charts.LineChart
+                android:background="#fcf7bb"
+                android:id="@+id/line_chart"
+                android:layout_width="match_parent"
+                android:layout_height="420sp"/>
+
+            <TextView
+                android:layout_height="wrap_content"
+                android:background="#588da8"
+                android:id="@+id/copyright"
+                android:fontFamily="serif-monospace"
+                android:textColor="#f2ed6f"
+                android:textSize="15sp"
+                android:layout_width="match_parent"/>
+
+        </LinearLayout>
+
+
+    </ScrollView>
+
+
+
+</LinearLayout>
