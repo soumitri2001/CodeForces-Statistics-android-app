@@ -3,8 +3,8 @@ This is an android application that gives all statistical data in visual form of
 
 Resources used: Official APIs of Codeforces, MPAndroidChart (v3.1.0) and made with latest Android Studio.
 
-Update: v1.0.3 (minor bug fixes).
 
-Update: v1.0.4 (major bug regarding a Stats Display feature has been fixed !)
+
+Update: v1.0.4 (minor bug regarding a Stats Display feature has been fixed !)
 
 You can <a href="https://github.com/soumitri2001/CodeForces-Statistics-android-app/tree/master/app_src/app-release_apk">Download apk here</a>!
