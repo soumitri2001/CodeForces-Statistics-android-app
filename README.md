@@ -11,10 +11,11 @@ You can <a href="https://github.com/soumitri2001/CodeForces-Statistics-android-a
 
 Screenshots:
 
-![screenshot 1](../master/app_src/screenshots/cf6.png)     ![screenshot 2](../master/app_src/screenshots/cf7.png)    ![screenshot 3](../master/app_src/screenshots/cf5.png)
+   ![screenshot 1](../master/app_src/screenshots/cf6.png)            ![screenshot 2](../master/app_src/screenshots/cf7.png)    
 
-![screenshot 4](../master/app_src/screenshots/cf3.png)     ![screenshot 5](../master/app_src/screenshots/cf1.png)     ![screenshot 6](../master/app_src/screenshots/cf2.png)
+   ![screenshot 3](../master/app_src/screenshots/cf5.png)         ![screenshot 4](../master/app_src/screenshots/cf3.png)     
+
+   ![screenshot 5](../master/app_src/screenshots/cf1.png)         ![screenshot 6](../master/app_src/screenshots/cflist.png)
 
    ![screenshot 7](../master/app_src/screenshots/cf4.png)
-
 
