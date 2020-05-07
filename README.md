@@ -5,6 +5,24 @@ Resources used: Official APIs of Codeforces, MPAndroidChart (v3.1.0) and made wi
 
 
 
-Update: v1.0.4 (minor bug regarding a Stats Display feature has been fixed !)
+Update: v1.0.5 (minor bug regarding a Stats Display feature has been fixed !)
 
 You can <a href="https://github.com/soumitri2001/CodeForces-Statistics-android-app/tree/master/app_src/app-release_apk">Download apk here</a>!
+
+Screenshots:
+
+![screenshot 1](../master/app_src/screenshots/ss1.png)
+
+![screenshot 2](../master/app_src/screenshots/ss2.png)
+
+![screenshot 3](../master/app_src/screenshots/ss3.png)
+
+![screenshot 4](../master/app_src/screenshots/ss4.png)
+
+![screenshot 5](../master/app_src/screenshots/ss5.png)
+
+![screenshot 6](../master/app_src/screenshots/ss6.png)
+
+![screenshot 7](../master/app_src/screenshots/ss7.png)
+
+![screenshot 8](../master/app_src/screenshots/ss8.png)
