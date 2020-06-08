@@ -3,7 +3,7 @@ This is an android application that gives all statistical data in visual form of
 
 Resources used: Official APIs of Codeforces, MPAndroidChart (v3.1.0) and made with latest Android Studio.
 
-Update: <a href="https://play.google.com/store/apps/details?id=com.appdevSoumitri.cfstats" target="_blank">Download the app from Google Play</a>
+Update: <a href="https://play.google.com/store/apps/details?id=com.appdevSoumitri.cfstats" target="_blank" rel="noopener noreferrer" >Download the app from Google Play</a>
 
 Screenshots:
 
